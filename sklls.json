@@ -1,4 +1,13 @@
 {
-	"skills" : "GIT, SDLC, STLC, JSON, XML, Postman, Dev Tools, VPN, XCode, ADB, terminal, bash, SQL, Postgres, Redis, Jmeter, Scrum, Python"
+	"skills" : "GIT",
+	"skills" : "Postman",
+	"skills" : "XCode",
+	"skills" : "terminal",
+	"skills" : "bash",
+	"skills" : "Redis",
+	"skills" : "Scrum",
+	"skills" : "Python",
+	"skills" : "SQL",
+	"skills" : "JSON"
 }
 
