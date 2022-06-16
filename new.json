@@ -3,7 +3,7 @@
 	"lastName" : "Basyrov",
 	"age" : 34,
 	"pets" : 0,
-	"expectedSalary" : 7000$
+	"expectedSalary" : "7000$"
 }
 
 
