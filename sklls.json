@@ -1,13 +1,4 @@
 {
-	["skills" : "GIT",
-	"skill1" : "Postman",
-	"skill2" : "XCode",
-	"skill3" : "terminal",
-	"skill4" : "bash",
-	"skill5" : "Redis",
-	"skill6" : "Scrum",
-	"skills7" : "Python",
-	"skills8" : "SQL",
-	"skills9" : "JSON"]
+	["skills" : "GIT", "Postman", "XCode", "terminal", "bash", "Redis", "Scrum", "Python", "SQL", "JSON"]
 }
 
