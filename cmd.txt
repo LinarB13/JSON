@@ -1,0 +1,17 @@
+4. Создать репозиторий JSON - на сайте github.com нажимаем repositories далее new
+5. Клонировать репозиторий на компьютер - git clone
+6. Создать файл new.json - touch new.json
+7. Добавить под гит - git add new.json
+8. Закоммитить файл - git commit -m "add new file"
+9. Отправить файл на внешний репозиторий - git push
+10. Отредактировать содержимое файла - vim new.json
+11. Отправить на внешинй репозиторий - git add new.json; git push
+12. Создать файл preferences.json - touch preferences.json
+13. В файл preferences.json добавить информацию - vim preferences.json
+14. Создать файл sklls.json - touch sklls.json
+15. Отправить 2 файла на внешинй репозиторий - git add .; git commit -m "add 2 files"; git push
+16. На веб интерфейсе создать файл bug_report.json - add file; create new file
+17. Сохранить изменения на веб интерфейсе - commit changes
+18. На веб интерфейсе модифицировать файл bug_report.json - edit this file
+19. Сохранить изменения на веб интерфейсе - commit changes
+20. Синхронизировать внешний и локальный репозиторий - git pull
