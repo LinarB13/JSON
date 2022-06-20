@@ -1,6 +1,6 @@
 {
-  "bug" : "баг репорт в формате JSON",
-  "Summery" : "bugreport",
+  	"bug" : "баг репорт в формате JSON",
+  	"Summery" : "bugreport",
 	"Project" : "superbug",
 	"Component" : "generalpart",
 	"Version" : "V1",
