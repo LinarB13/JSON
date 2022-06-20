@@ -1,4 +1,12 @@
 {
   "bug" : "баг репорт в формате JSON"
+  "Summery" : "bugreport",
+	"Project" : "superbug",
+	"Component" : "generalpart",
+	"Version" : "V1",
+	"Severity" : "S4",
+	"Status" : "open", 
+	"Author" : "Linar",
+	"Description" : "Successful"
 }
 
